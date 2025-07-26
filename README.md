@@ -59,5 +59,7 @@ Conecte-se comigo e vamos trocar ideias sobre análise de dados, Power BI e mais
 
 ---
 
-📌 **Atualizações constantes** — acompanhe a evolução!
+## Fontes
+
+Fontes e Bases em Vídeo aulas do Youtube, Testes e desafios de entrevistas de emprego e bootcamps.
 
